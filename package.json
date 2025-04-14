@@ -1,0 +1,13 @@
+{
+    "name": "shared-libs",
+    "version": "0.1.0",
+    "main": "common/index.js",
+    "scripts": {
+      "build": "tsc"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "typescript": "^4.9.0"
+    }
+  }
+  
